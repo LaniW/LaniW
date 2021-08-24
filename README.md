@@ -1,4 +1,5 @@
-Hello, I’m @LaniW!
+Hello, I’m Lani!
+She/her
 
 <!---
 LaniW/LaniW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
