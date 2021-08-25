@@ -1,6 +1,6 @@
 Hello, I’m Lani!
 - She/her
-- I develop in: Flutter, Dart, HTML and CSS
+- I develop in: Dart, HTML and CSS
 
 <!---
 LaniW/LaniW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
