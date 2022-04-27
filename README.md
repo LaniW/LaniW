@@ -1,6 +1,7 @@
 Hello, I’m Lani!
 - She/her
-- I develop in: Dart/Flutter, Java, HTML and CSS
+- I develop in: Dart and Java
+- I know: Flutter, HTML, CSS and Google ARCore 
 
 <!---
 LaniW/LaniW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
