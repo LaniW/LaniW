@@ -1,5 +1,6 @@
 Hello, I’m Lani!
 - She/her
+- I am learning: C and Git
 - I develop in: Dart and Java
 - I know: Flutter, HTML, CSS and Google ARCore 
 
