@@ -1,6 +1,6 @@
 Hello, I’m Lani!
 - She/her
-- I am learning: C, C#, C++ Python and Google ML Kit
+- I am learning: C, C#, C++, Python, JavaScript and Google ML Kit
 - I develop in: Dart and Java
 - I know: Flutter, HTML, CSS, Google ARCore, LaTeX and Unity
 
